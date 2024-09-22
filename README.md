@@ -1,0 +1,1 @@
+# plugins-wp-remove-category-base
